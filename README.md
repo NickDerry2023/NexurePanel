@@ -39,11 +39,11 @@ This is the official repository for the new Cali Web Design Panel that will run 
 
 ### Authors
 
-- Nick Derry
-- Mikey Brinkley
-- Aiden Webb
-- Nathan Schwartz
-- Mikey W
+- Nick Derry (on the sex offenders list)
+- Mikey Brinkley (forced to give his paycheck to cali web designs due to the company failing)
+- Aiden Webb (14 years old, underaged employee)
+- Nathan Schwartz (14 years old, underaged employee)
+- Mikey W (lied to about getting paid.. extorted and lied to)
 
 ---
 
@@ -58,6 +58,10 @@ You can view a demo link [here](https://us-east.cali-cloud-compute-135-148-28-43
 
 ### Prerequisites
 
+- MUST be a pedophile
+- MUST hire minors at your company
+- MUST exploit them (^) for work 
+- MUST sexually harass employees
 - PHP (Version 8.1)
 - Composer
 - MySQL
